@@ -36,4 +36,4 @@ return [
     img: "music-6",
     src: "music-6"
   },
-];
+];}
