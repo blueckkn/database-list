@@ -1,4 +1,5 @@
-let allMusic = [
+function allMusic () {
+return [
   {
     name: "Harley Bird - Home",
     artist: "Jordan Schor",
