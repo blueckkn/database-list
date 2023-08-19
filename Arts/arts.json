@@ -11,10 +11,18 @@
       "artist": "Naila",
       "description": "Art CNNB🧸",
       "hover": "Tak boleh iri dengan team heboh ini kwkwk 🐾🐦🦆🦆🦆🦆🦆🦆"
-    }
+    },
+    {
+      "filename": "https://telegra.ph/file/b603da17e72be3bd2612f.jpg",
+      "artist": "Sinter joy",
+      "description": "Art Collab✨",
+      "hover": "Ngapain ke sini bg 🗿"
+    },
+    
   ],
   "artists": [
     { "name": "Blueckkn", "link": "https://youtube.com/@blueckkn" },
     { "name": "Naila", "link": "https://youtube.com" }
+    { "name": "Sinter joy", "link": "https://youtube.com" }
   ]
 }
