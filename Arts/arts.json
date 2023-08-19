@@ -17,12 +17,11 @@
       "artist": "Sinter joy",
       "description": "Art Collab✨",
       "hover": "Ngapain ke sini bg 🗿"
-    },
-    
+    },    
   ],
   "artists": [
     { "name": "Blueckkn", "link": "https://youtube.com/@blueckkn" },
-    { "name": "Naila", "link": "https://youtube.com" }
+    { "name": "Naila", "link": "https://youtube.com" },
     { "name": "Sinter joy", "link": "https://youtube.com" }
   ]
 }
