@@ -5,10 +5,16 @@
       "artist": "Blueckkn",
       "description": "Art pas gabut 🗿👍",
       "hover": "Saya kucing Furry:'v"
+    },
+    {
+      "filename": "https://telegra.ph/file/8530beed1f007204b5c1f.jpg",
+      "artist": "Naila",
+      "description": "Art CNNB🧸",
+      "hover": "Tak boleh iri dengan team heboh ini kwkwk 🐾🐦🦆🦆🦆🦆🦆🦆"
     }
   ],
   "artists": [
-    { "name": "Blueckkn", "link": "https://youtube/@blueckkn" },
-    { "name": "Myoukyomou", "link": "https://twitter.com/myoukyomou" }
+    { "name": "Blueckkn", "link": "https://youtube.com/@blueckkn" },
+    { "name": "Naila", "link": "https://youtube.com" }
   ]
 }
