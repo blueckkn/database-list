@@ -1,0 +1,14 @@
+{
+  art: [
+    {
+      filename: "https://telegra.ph/file/6889b5bb905e5394ccd05.jpg",
+      artist: "Blueckkn",
+      description: "Art pas gabut 🗿👍",
+      hover: "Saya kucing Furry:'v",
+    },
+  ],
+  artists: [
+    { name: "Blueckkn", link: "https://youtube/@blueckkn" },
+    { name: "Myoukyomou", link: "https://twitter.com/myoukyomou" },
+  ],
+}
