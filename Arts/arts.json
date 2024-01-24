@@ -17,7 +17,7 @@
       "artist": "Sinterjoy",
       "description": "Art Collab✨",
       "hover": "Ngapain ke sini bg 🗿"
-    },   
+    },
     {
       "filename": "https://telegra.ph/file/2d207f08644294fbd9b48.jpg",
       "artist": "Naila",
@@ -75,11 +75,26 @@
   ],
   "artists": [
     { "name": "BlueCkkn", "link": "https://youtube.com/@blueckkn" },
-    { "name": "Naila", "link": "https://www.youtube.com/channel/UC9J-q_OmG6rO5z3z1tjJ1mQ" },
-    { "name": "Carissa", "link": "https://www.youtube.com/channel/UCKQzK3GydO-LwE6ngAJRO3w" },
-    { "name": "Kiky", "link": "https://www.youtube.com/channel/UCFhNtIPQiLQsTl8_9tiExcw" },
-    { "name": "Rey", "link": "https://www.youtube.com/channel/UCprTu-CZg2zCjNZvgQbZerA" },
-    { "name": "LiliGamer", "link": "https://www.youtube.com/channel/UCaqMsVg7r6n8jXzdLnGULDA" },
+    {
+      "name": "Naila",
+      "link": "https://www.youtube.com/channel/UC9J-q_OmG6rO5z3z1tjJ1mQ"
+    },
+    {
+      "name": "Carissa",
+      "link": "https://www.youtube.com/channel/UCKQzK3GydO-LwE6ngAJRO3w"
+    },
+    {
+      "name": "Kiky",
+      "link": "https://www.youtube.com/channel/UCFhNtIPQiLQsTl8_9tiExcw"
+    },
+    {
+      "name": "Rey",
+      "link": "https://www.youtube.com/channel/UCprTu-CZg2zCjNZvgQbZerA"
+    },
+    {
+      "name": "LiliGamer",
+      "link": "https://www.youtube.com/channel/UCaqMsVg7r6n8jXzdLnGULDA"
+    },
     { "name": "ShanyUmU", "link": "https://youtube.com/@" },
     { "name": "Sinterjoy", "link": "https://youtube.com" }
   ]
