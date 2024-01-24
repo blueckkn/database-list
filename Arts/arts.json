@@ -2,7 +2,7 @@
   "art": [
     {
       "filename": "https://telegra.ph/file/6889b5bb905e5394ccd05.jpg",
-      "artist": "Blueckkn",
+      "artist": "BlueCkkn",
       "description": "Art pas gabut 🗿👍",
       "hover": "Saya kucing Furry:'v"
     },
@@ -29,10 +29,46 @@
       "artist": "Naila",
       "description": "Art Me",
       "hover": "Di give ama Naila 😇💕"
+    },
+    {
+      "filename": "https://telegra.ph/file/9cf93bd02e485bb431b6b.jpg",
+      "artist": "BlueCkkn",
+      "description": "Art Me",
+      "hover": "Comel kan :v"
+    },
+    {
+      "filename": "https://telegra.ph/file/da3828855a1479f143e30.jpg",
+      "artist": "BlueCkkn",
+      "description": "Art For Carissa",
+      "hover": "Ooooh Maxxxx >:3"
+    },
+    {
+      "filename": "https://telegra.ph/file/df3fc1548414820549f82.jpg",
+      "artist": "BlueCkkn",
+      "description": "Art For Kiky",
+      "hover": "Santuy kali >:V"
+    },
+    {
+      "filename": "https://telegra.ph/file/cf4aae2e02727e4ee77e2.jpg",
+      "artist": "BlueCkkn",
+      "description": "Art For Rey",
+      "hover": "Kece Cuy 😱"
+    },
+    {
+      "filename": "https://telegra.ph/file/66220cd9e3ca71dca1f67.jpg",
+      "artist": "BlueCkkn",
+      "description": "Art For Naila",
+      "hover": "Wadidau"
+    },
+    {
+      "filename": "https://telegra.ph/file/e194adf7d3237ec3686a1.jpg",
+      "artist": "BlueCkkn",
+      "description": "Art For Lily Gamer",
+      "hover": "Playwr Gamer cuy 🗿"
     }
   ],
   "artists": [
-    { "name": "Blueckkn", "link": "https://youtube.com/@blueckkn" },
+    { "name": "BlueCkkn", "link": "https://youtube.com/@blueckkn" },
     { "name": "Naila", "link": "https://youtube.com" },
     { "name": "Sinterjoy", "link": "https://youtube.com" }
   ]
