@@ -62,9 +62,15 @@
     },
     {
       "filename": "https://telegra.ph/file/e194adf7d3237ec3686a1.jpg",
-      "artist": "LiliGamer",
+      "artist": "Lili Gamer",
       "description": "Art For Lily Gamer",
       "hover": "Player Gamer cuy 🗿"
+    }
+    {
+      "filename": "https://telegra.ph/file/e744fd1fda866b8bb5ba6.jpg",
+      "artist": "Shany UmU",
+      "description": "Art For Shany UmU",
+      "hover": "Kek surga dah oc nya ☠️🗿"
     }
   ],
   "artists": [
@@ -73,7 +79,8 @@
     { "name": "Carissa", "link": "https://www.youtube.com/channel/UCKQzK3GydO-LwE6ngAJRO3w" },
     { "name": "Kiky", "link": "https://www.youtube.com/channel/UCFhNtIPQiLQsTl8_9tiExcw" },
     { "name": "Rey", "link": "https://www.youtube.com/channel/UCprTu-CZg2zCjNZvgQbZerA" },
-    { "name": "LiliGamer", "link": "https://www.youtube.com/channel/UCaqMsVg7r6n8jXzdLnGULDA" },
+    { "name": "Lili Gamer", "link": "https://www.youtube.com/channel/UCaqMsVg7r6n8jXzdLnGULDA" },
+    { "name": "Shany UmU", "link": "https://youtube.com/@" },
     { "name": "Sinterjoy", "link": "https://youtube.com" }
   ]
 }
