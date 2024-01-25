@@ -71,6 +71,12 @@
       "artist": "Shany UmU",
       "description": "Art For Shany UmU",
       "hover": "Kek surga dah oc nya ☠️🗿"
+    },
+    {
+      "filename": "https://telegra.ph/file/86b792326a8279db8980e.jpg",
+      "artist": "Assh Miaw",
+      "description": "Art For Assh",
+      "hover": "Comel Oc nya 🥰"
     }
   ],
   "artists": [
@@ -94,6 +100,10 @@
     {
       "name": "Lili Gamer",
       "link": "https://www.youtube.com/channel/UCaqMsVg7r6n8jXzdLnGULDA"
+    },
+    {
+      "name": "Assh Miaw",
+      "link": "https://www.youtube.com/channel/UCbKx7mxlPQxVI3A43QTlOsQ"
     },
     { "name": "Shany UmU", "link": "https://youtube.com" },
     { "name": "Sinterjoy", "link": "https://youtube.com" }
