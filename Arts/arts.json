@@ -77,7 +77,13 @@
       "artist": "Assh Miaw",
       "description": "Art For Assh",
       "hover": "Comel Oc nya 🥰"
-    }
+    },
+    {
+      "filename": "https://telegra.ph/file/891b7b5eb3a9e1d6583a7.jpg",
+      "artist": "Febri",
+      "description": "Art For Febri, Ulang tahun Cuy 😱😍",
+      "hover": "Uwahauhwauaha"
+    }    
   ],
   "artists": [
     { "name": "BlueCkkn", "link": "https://youtube.com/@blueckkn" },
@@ -106,6 +112,7 @@
       "link": "https://www.youtube.com/channel/UCbKx7mxlPQxVI3A43QTlOsQ"
     },
     { "name": "Shany UmU", "link": "https://youtube.com" },
+    { "name": "Febri", "link": "https://youtube.com" },
     { "name": "Sinterjoy", "link": "https://youtube.com" }
   ]
 }
