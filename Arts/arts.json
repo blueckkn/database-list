@@ -83,6 +83,12 @@
       "artist": "Febri",
       "description": "Art For Febri, Ulang tahun Cuy 😱😍",
       "hover": "Uwahauhwauaha"
+    },    
+    {
+      "filename": "https://telegra.ph/file/91279ba362a1084c92b9b.jpg",
+      "artist": "Vex Kunz",
+      "description": "Art For Vex, Subscribe ke 100k cuy 😱😍",
+      "hover": "Nyehehe Di share channel ku 😌😎"
     }    
   ],
   "artists": [
@@ -110,6 +116,10 @@
     {
       "name": "Assh Miaw",
       "link": "https://www.youtube.com/channel/UCbKx7mxlPQxVI3A43QTlOsQ"
+    },
+    {
+      "name": "Vex Kunz",
+      "link": "https://www.youtube.com/channel/UC7FYmLWGzx3X5fpL5z1j51Q"
     },
     { "name": "Shany UmU", "link": "https://youtube.com" },
     { "name": "Febri", "link": "https://youtube.com" },
